@@ -24,3 +24,5 @@ def speak_to_grandma(phrase)
 end
 
 phrase = "Hello!"
+
+speak_to_grandma
